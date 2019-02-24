@@ -3,3 +3,6 @@ CS5490_F3.pdf
 exampleChecksum
 
 *.h.gch
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
